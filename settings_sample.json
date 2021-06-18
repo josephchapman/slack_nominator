@@ -1,0 +1,11 @@
+{
+  "Settings": {
+    "Channel Scan": "AAAAAAAAA",
+    "Channel Post": "ZZZZZZZZZ"
+  },
+  "Inclusions": [
+    "Team Member1",
+    "Team Member2",
+    "Team Member3"
+  ]
+}

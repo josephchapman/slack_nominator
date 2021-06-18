@@ -1,0 +1,22 @@
+{
+  "Latest Flush": "2018-04-16 09:19:16",
+  "Channel": "AAAAAAAAA",
+  "Latest Update": "2018-04-18 11:35:59",
+  "Members": [
+    {
+      "User Name": "teammember1",
+      "Real Name": "Team Member1",
+      "ID": "U01111111"
+    },
+    {
+      "User Name": "teammember2",
+      "Real Name": "Team Member3",
+      "ID": "U02222222"
+    },
+    {
+      "User Name": "teammember3",
+      "Real Name": "Team Member3",
+      "ID": "U03333333"
+    }
+  ]
+}
